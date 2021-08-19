@@ -1,9 +1,9 @@
-# TEMPLATE_GO
+# go_sql
 
 ## 项目结构
 
 ```bash
-template_go    
+go_sql    
 ├── config            // 配置文件
 ├── examples           // 使用实例
 ├── src               // 源代码
